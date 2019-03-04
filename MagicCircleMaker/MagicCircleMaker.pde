@@ -1,4 +1,4 @@
-int points = 7;
+int points = 6;
 float factor = 3;
 float r;
 enum key {UP,DOWN,LEFT,RIGHT};
