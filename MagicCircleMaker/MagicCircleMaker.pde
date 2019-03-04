@@ -1,6 +1,7 @@
 int points = 7;
 float factor = 3;
 float r;
+enum key {UP,DOWN,LEFT,RIGHT};
 
 void setup()
 {
