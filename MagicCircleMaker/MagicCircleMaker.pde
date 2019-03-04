@@ -4,7 +4,7 @@ float r;
 
 void setup()
 {
-  size(1000,1000);
+  size(760,760);
   r = width/2 - 72;
 }
 
