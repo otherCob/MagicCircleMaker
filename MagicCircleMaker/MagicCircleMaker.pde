@@ -1,10 +1,11 @@
-int points = 7;
+int points = 6;
 float factor = 3;
 float r;
+enum key {UP,DOWN,LEFT,RIGHT};
 
 void setup()
 {
-  size(1000,1000);
+  size(760,760);
   r = width/2 - 72;
 }
 
