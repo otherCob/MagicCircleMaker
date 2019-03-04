@@ -48,7 +48,7 @@ void draw()
   float oY = height/2;
   translate(oX, oY);
   stroke(255);
-  strokeWeight(4);
+  strokeWeight(3);
   float delta = TWO_PI / points;
   
   noFill();
